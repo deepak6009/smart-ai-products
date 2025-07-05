@@ -1,0 +1,15 @@
+body {
+  background: radial-gradient(circle at center, #0d0d0d, #1f1f1f);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.text-gradient {
+  background: linear-gradient(45deg, #0dcaf0, #20c997);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+  transition: all 0.2s ease-in-out;
+}

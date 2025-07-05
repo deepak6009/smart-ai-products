@@ -1,0 +1,6 @@
+node_modules/
+.env
+__pycache__/
+audio/
+*.mp3
+.DS_Store
